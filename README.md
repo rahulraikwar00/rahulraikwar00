@@ -1,5 +1,5 @@
 ### Hi there, I'm Rahul 👋
-
+![](https://komarev.com/ghpvc/?rahulraikwar00&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RahulRa88622548?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RahulRa88622548)
 
 ## I'm a Student, Tech enthusiast and Developer !!
