@@ -19,7 +19,7 @@
 2. 🗣 Commented on [#14](https://github.com/rahulraikwar00/rahulraikwar00/issues/14) in [rahulraikwar00/rahulraikwar00](https://github.com/rahulraikwar00/rahulraikwar00)
 3. ❌ Closed PR [#7](https://github.com/rahulraikwar00/rahulraikwar00/pull/7) in [rahulraikwar00/rahulraikwar00](https://github.com/rahulraikwar00/rahulraikwar00)
 4. 🎉 Merged PR [#6](https://github.com/rahulraikwar00/rahulraikwar00/pull/6) in [rahulraikwar00/rahulraikwar00](https://github.com/rahulraikwar00/rahulraikwar00)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+5. 💪 Opened PR [#25](https://github.com/florinpop17/app-ideas/pull/259) in [rahulraikwar00/rahulraikwar00](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
 </details>
