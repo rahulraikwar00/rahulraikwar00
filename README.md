@@ -9,8 +9,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Building accessible, performant web applications
-- 🌱 Currently leveling up in **Next.js, TypeScript & System Design**
-- 💬 Ask me about **React, Python, Node.js, Django**
+- 🌱 Currently leveling up in **TypeScript & System Design**
+- 💬 Ask me about **System Design, architecture, blockchain, simple solutions **
 - ⚡ Fun fact: I can debug code at 2 AM without coffee (don't try this at home)
 
 ---
@@ -20,7 +20,7 @@
 | **Frontend** | **Backend** | **Languages** | **Tools** |
 |--------------|-------------|----------------|------------|
 | React / Next.js | Node.js | Python | Git |
-| Vue.js | Django | TypeScript | Docker |
+| Vue.js | FASTapi | TypeScript | Docker |
 | TypeScript | FastAPI | JavaScript | AWS |
 
 ---
