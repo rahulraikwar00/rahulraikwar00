@@ -29,23 +29,23 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 Blockchain & Security
+### 🔐 Security & Compliance
 | Project | Description |
 |---------|-------------|
-| [Blockchain1](https://github.com/rahulraikwar00/Blockchain1) | From-scratch blockchain implementation in Python — understanding the core of decentralized systems |
-| [ADvault](https://github.com/rahulraikwar00/ADvault) | Secure Aadhaar data vault with reversible tokenization, encryption, and audit logging |
+| [aadhaar-hsm-poc](https://github.com/rahulraikwar00/aadhaar-hsm-poc) | Secure on-premises Aadhaar data storage with tokenization, **HSM-backed encryption**, PostgreSQL, and audit logging |
+| [prworkflow_tool](https://github.com/rahulraikwar00/prworkflow_tool) | **PWR** — Pull Requests Workflow CLI. Brings PR concepts to your terminal alongside git |
 
-### 🌐 Distributed Systems
+### 🌐 Distributed & Real-time Systems
 | Project | Description |
 |---------|-------------|
 | [AddressSync](https://github.com/rahulraikwar00/AddressSync) | Real-time address sync across documents using FastAPI + Twilio — built for scale |
-| [acousticbrainz-server](https://github.com/rahulraikwar00/acousticbrainz-server) | Music metadata server (open source contributor) |
+| [foreverframes](https://github.com/rahulraikwar00/foreverframes) | Capture memories as photo footprints and pin them to locations — preserving them forever |
 
-### 🤖 AI & Modern Web
+### 🤖 AI & Developer Tools
 | Project | Description |
 |---------|-------------|
-| [blogs](https://github.com/rahulraikwar00/blogs) | Personal blog with Next.js 14 + TypeScript |
-| [cv](https://github.com/rahulraikwar00/cv) | Portfolio built from scratch — minimal, fast, accessible |
+| [FocusWalker](https://github.com/rahulraikwar00/FocusWalker) | PWA that transforms focus sessions into "virtual walks" — timers synced to real-world walking duration |
+| [pomodarov2](https://github.com/rahulraikwar00/pomodarov2) | **Pomoji** — Pomodoro timer Chrome extension with a running animated cat and live lofi radio |
 
 ---
 
