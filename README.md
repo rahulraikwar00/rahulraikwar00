@@ -1,38 +1,51 @@
 # Hey, I'm Rahul 👋
 
-### Full-Stack Developer | Open Source Enthusiast | Problem Solver
+### Full-Stack Developer | Systems Builder | Open Source Enthusiast
 
-> "I don't just write code — I solve problems. If your AI-generated code needs debugging, I've got you."
+> "I build systems that scale. From distributed file sync to blockchain cores — I love solving hard problems."
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Building accessible, performant web applications
-- 🌱 Currently leveling up in **TypeScript & System Design**
-- 💬 Ask me about **System Design, architecture, blockchain, simple solutions **
-- ⚡ Fun fact: I can debug code at 2 AM without coffee (don't try this at home)
+- 🔭 Building **distributed systems**, **blockchain**, and **AI-integrated** applications
+- 🌱 Deep diving into **LLM agents**, **system design**, and **Next.js 14**
+- 💬 Ask me about **React, Python, Django, FastAPI, TypeScript**
+- ⚡ Fun fact: I debug better at 2 AM than 9 AM (don't ask why)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| **Frontend** | **Backend** | **Languages** | **Tools** |
-|--------------|-------------|----------------|------------|
-| React / Next.js | Node.js | Python | Git |
-| Vue.js | FASTapi | TypeScript | Docker |
-| TypeScript | FastAPI | JavaScript | AWS |
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, Next.js, Vue.js, TypeScript |
+| **Backend** | Node.js, Django, FastAPI |
+| **Languages** | Python, JavaScript, TypeScript |
+| **Systems** | Docker, AWS, Git |
+| **Interests** | Blockchain, AI Agents, Distributed Systems |
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [blogs](https://github.com/rahulraikwar00/blogs) | Personal blog website | Next.js, TypeScript |
-| [cv](https://github.com/rahulraikwar00/cv) | Portfolio built from scratch | TypeScript |
-| [acousticbrainz-server](https://github.com/rahulraikwar00/acousticbrainz-server) | Music metadata server (contributor) | Python |
-| [coronavirus_country_wise_list](https://github.com/rahulraikwar00/coronavirus_country_wise_list) | COVID-19 data tracker | Python |
+### 🔗 Blockchain & Security
+| Project | Description |
+|---------|-------------|
+| [Blockchain1](https://github.com/rahulraikwar00/Blockchain1) | From-scratch blockchain implementation in Python — understanding the core of decentralized systems |
+| [ADvault](https://github.com/rahulraikwar00/ADvault) | Secure Aadhaar data vault with reversible tokenization, encryption, and audit logging |
+
+### 🌐 Distributed Systems
+| Project | Description |
+|---------|-------------|
+| [AddressSync](https://github.com/rahulraikwar00/AddressSync) | Real-time address sync across documents using FastAPI + Twilio — built for scale |
+| [acousticbrainz-server](https://github.com/rahulraikwar00/acousticbrainz-server) | Music metadata server (open source contributor) |
+
+### 🤖 AI & Modern Web
+| Project | Description |
+|---------|-------------|
+| [blogs](https://github.com/rahulraikwar00/blogs) | Personal blog with Next.js 14 + TypeScript |
+| [cv](https://github.com/rahulraikwar00/cv) | Portfolio built from scratch — minimal, fast, accessible |
 
 ---
 
@@ -57,5 +70,5 @@
 ---
 
 <p align="center">
-  <em>Always learning. Always building. Always debugging.</em>
+  <em>Always building. Always learning. Always shipping.</em>
 </p>
