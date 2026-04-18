@@ -1,39 +1,61 @@
-### Hi there, I'm Rahul Raikwar! 👋
+# Hey, I'm Rahul 👋
 
-📍 India  
-🌐 [iamrahulraikwar.online](https://Iamrahulraikwar.online)  
-💼 Open to debugging AI-generated code
+### Full-Stack Developer | Open Source Enthusiast | Problem Solver
+
+> "I don't just write code — I solve problems. If your AI-generated code needs debugging, I've got you."
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+- 🔭 Building accessible, performant web applications
+- 🌱 Currently leveling up in **Next.js, TypeScript & System Design**
+- 💬 Ask me about **React, Python, Node.js, Django**
+- ⚡ Fun fact: I can debug code at 2 AM without coffee (don't try this at home)
+
+---
+
+## 🛠️ Tech Stack
+
+| **Frontend** | **Backend** | **Languages** | **Tools** |
+|--------------|-------------|----------------|------------|
+| React / Next.js | Node.js | Python | Git |
+| Vue.js | Django | TypeScript | Docker |
+| TypeScript | FastAPI | JavaScript | AWS |
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [blogs](https://github.com/rahulraikwar00/blogs) | Personal blog website | Next.js, TypeScript |
+| [cv](https://github.com/rahulraikwar00/cv) | Portfolio built from scratch | TypeScript |
+| [acousticbrainz-server](https://github.com/rahulraikwar00/acousticbrainz-server) | Music metadata server (contributor) | Python |
+| [coronavirus_country_wise_list](https://github.com/rahulraikwar00/coronavirus_country_wise_list) | COVID-19 data tracker | Python |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulraikwar00&show_icons=true&theme=radical" alt="rahulraikwar00" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraikwar00&layout=compact&theme=radical" alt="rahulraikwar00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulraikwar00&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraikwar00&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔧 Tech Stack
+## 📫 Let's Connect
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Vue, Next.js
-- **Backend:** Node.js, Django, FastAPI
-- **Tools:** Docker, Git, AWS
+<a href="https://github.com/rahulraikwar00">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://Iamrahulraikwar.online">
+  <img src="https://img.shields.io/badge/Portfolio-FF7143?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
-### 📫 Connect with me
-
-<p>
-  <a href="https://github.com/rahulraikwar00">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://Iamrahulraikwar.online">
-    <img src="https://img.shields.io/badge/Website-FF7143?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+<p align="center">
+  <em>Always learning. Always building. Always debugging.</em>
 </p>
-
----
-*🤖 "If you need someone to DEBUG your AI generated crapy code... i am open to help you out"*
