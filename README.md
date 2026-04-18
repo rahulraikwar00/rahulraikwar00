@@ -47,16 +47,7 @@
 | [FocusWalker](https://github.com/rahulraikwar00/FocusWalker) | PWA that transforms focus sessions into "virtual walks" — timers synced to real-world walking duration |
 | [pomodarov2](https://github.com/rahulraikwar00/pomodarov2) | **Pomoji** — Pomodoro timer Chrome extension with a running animated cat and live lofi radio |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulraikwar00&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraikwar00&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
